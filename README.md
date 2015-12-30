@@ -1,2 +1,2 @@
 ﻿# NodeJs.Translator
-# Author The_HydroX
+Author The_HydroX
