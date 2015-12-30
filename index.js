@@ -1,8 +1,8 @@
 ﻿var bt = require('bing-translate').init({
-    client_id: '',
-    client_secret: ''
+    client_id: 'BING_CLIENTID',
+    client_secret: 'BING_CLIENTSECRET'
 });
-var token = '';
+var token = 'YOUR_TELEGRAM_TOKEN';
 
 var request = require("request")
 
