@@ -8,6 +8,6 @@
     "email": ""
   },
   "dependencies": {
-    "bing-translate": "0.0.2",
+    "bing-translate": "0.0.2"
   }
 }
